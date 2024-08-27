@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "drunk_detector"
+version = "0.1.0"
+description = ""
+authors = ["2amazing4me <razvanmihai1337@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
