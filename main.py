@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('Baldo, the man of the year, the fear of Poli, the danger of 332CA... now in 3D')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
