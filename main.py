@@ -14,5 +14,6 @@ if __name__ == "__main__":
     print_hi(
         "Baldo, the man of the year, the fear of Poli, the danger of 332CA... now in 3D"
     )
+    print_hi("Nicu, master of the GitHub shabangbang, the death of all women, moartea pasiunii")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
